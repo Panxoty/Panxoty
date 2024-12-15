@@ -9,6 +9,7 @@
 
 <!-- Acerca de mi -->
 ## **Acerca de Mí**
+- Tengo 21 años, soy de Ovalle, Chile
 - Aprendizaje autodidacta.
 - Habilidades de comunicación y trabajo en equipo.
 - Apasionado por el desarrollo web.
