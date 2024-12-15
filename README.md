@@ -8,6 +8,6 @@
 </p>
 
 ## **Acerca de Mí**
--Aprendizaje autodidacta.
--Habilidades de comunicación y trabajo en equipo.
--Apasionado por el desarrollo web.
+- Aprendizaje autodidacta.
+- Habilidades de comunicación y trabajo en equipo.
+- Apasionado por el desarrollo web.
