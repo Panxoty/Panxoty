@@ -18,6 +18,13 @@
 ## **Tecnologias**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,nodejs, express, postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,nodejs,express" />
+  </a>
+</p>
+
+## **Herramientas**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,mongodb,mysql,git" />
   </a>
 </p>
