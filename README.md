@@ -18,7 +18,7 @@
 ## **Tecnologias**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,typescript,tailwind,nodejs,express" />
   </a>
 </p>
 
